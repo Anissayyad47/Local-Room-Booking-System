@@ -1,4 +1,6 @@
-Project : Local Rooms Booking System
+Project : Local Rooms Booking System.
+
+
 Technologes used: react js, node js, express js, mongodb, AWS s3, google map api
 
 In the market, many rental websites focus on 1BHK, 2BHK, or flats, which are often expensive for middle-class and lower-income individuals. However, finding affordable single or double rooms in local areas is difficult, as no platform provides such listings. People must explore neighborhoods and ask around to find available rooms. Having faced this challenge myself while moving to different areas, I decided to create a platform that helps local people easily find budget-friendly single and double rooms in their vicinity. This project aims to bridge the gap and make affordable housing more accessible.
