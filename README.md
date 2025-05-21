@@ -1,4 +1,4 @@
-Project : Local Rooms Booking System.
+Project : Local Rooms Search Platform.
 
 
 Technologes used: react js, node js, express js, mongodb, AWS s3, google map api
