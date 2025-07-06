@@ -12,6 +12,7 @@ const connectDB=require("./db");
 4
 5
 6
+7
 const app = express();
 app.use(cors());
 app.use(express.json());
