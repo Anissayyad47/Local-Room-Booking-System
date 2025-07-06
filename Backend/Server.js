@@ -10,7 +10,7 @@ const connectDB=require("./db");
 2
 3
 4
-
+5
 const app = express();
 app.use(cors());
 app.use(express.json());
