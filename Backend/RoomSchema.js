@@ -23,4 +23,5 @@ const RoomSchema = new mongoose.Schema({
 3
 4
 6
+6
 module.exports = mongoose.model("Room", RoomSchema);
