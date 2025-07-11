@@ -19,5 +19,5 @@ const RoomSchema = new mongoose.Schema({
     deposite:Number,
 });
 1
-
+2
 module.exports = mongoose.model("Room", RoomSchema);
