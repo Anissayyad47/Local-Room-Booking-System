@@ -18,5 +18,6 @@ const RoomSchema = new mongoose.Schema({
     room_size:Number,
     deposite:Number,
 });
+1
 
 module.exports = mongoose.model("Room", RoomSchema);
