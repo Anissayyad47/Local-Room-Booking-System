@@ -7,7 +7,6 @@ require("dotenv").config();
 const uuid = require("uuid").v4;
 const connectDB=require("./db");
 
-12222
 const app = express();
 app.use(cors());
 app.use(express.json());
