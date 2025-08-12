@@ -11,7 +11,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 connectDB();
-
+1
 // AWS S3 Setup
 const s3 = new S3Client({
     region: process.env.AWS_REGION,
