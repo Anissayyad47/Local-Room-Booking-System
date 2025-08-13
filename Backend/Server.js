@@ -6,8 +6,8 @@ const Room = require("./RoomSchema");
 require("dotenv").config();
 const uuid = require("uuid").v4;
 const connectDB=require("./db");
-1
-const app = express();
+11
+const app = express();1
 app.use(cors());
 app.use(express.json());
 connectDB();
