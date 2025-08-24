@@ -81,8 +81,8 @@ Result page
 <img width="1920" height="1080" alt="Vite + React and 9 more pages - Personal - Microsoft​ Edge 24-08-2025 14_09_52" src="https://github.com/user-attachments/assets/ac952149-99fb-42ba-94cf-df336a2a6163" />
 
 Room detials 
-
-<img width="1920" height="1080" alt="Vite + React and 9 more pages - Personal - Microsoft​ Edge 24-08-2025 14_11_15" src="https://github.com/user-attachments/assets/2087156f-7787-47d7-993f-80b3573c3a29" />
-<img width="1920" height="1080" alt="Vite + React and 9 more pages - Personal - Microsoft​ Edge 24-08-2025 14_11_08" src="https://github.com/user-attachments/assets/0abbf63a-be91-4742-a4c3-b6045bda0fb9" />
 <img width="1920" height="1080" alt="Vite + React and 9 more pages - Personal - Microsoft​ Edge 24-08-2025 14_10_15" src="https://github.com/user-attachments/assets/014d62a8-7ba3-431a-987b-a81e2d0acfc6" />
+<img width="1920" height="1080" alt="Vite + React and 9 more pages - Personal - Microsoft​ Edge 24-08-2025 14_11_08" src="https://github.com/user-attachments/assets/0abbf63a-be91-4742-a4c3-b6045bda0fb9" />
+<img width="1920" height="1080" alt="Vite + React and 9 more pages - Personal - Microsoft​ Edge 24-08-2025 14_11_15" src="https://github.com/user-attachments/assets/2087156f-7787-47d7-993f-80b3573c3a29" />
+
 
