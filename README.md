@@ -23,4 +23,30 @@ In the market, many rental websites focus on 1BHK, 2BHK, or flats, which are oft
 
 
 
+🏠 Room Finder Platform
+
+A full-stack room booking platform that allows users to search for rooms by location, view detailed information, and manage listings with a modern, responsive UI.
+Built with React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, AWS S3, and Google Maps API.
+
+🚀 Features
+🔍 Room Search — Search for rooms by location with filters for price, furnishing, parking, and more.
+🗺 Google Maps Integration — View rooms on a map with location markers.
+🔑 User Authentication — Login to access personalized features (search also available without login).
+🖼 Image Storage with AWS S3 — Securely stores and retrieves room images.
+📝 Detailed Room Information —
+Images
+Ratings
+Furnishing status (furnished, semi-furnished, unfurnished)
+Available for (families, bachelors, anyone)
+Number of bathrooms
+Parking availability
+Address, rent price, security deposit
+Post date and availability date
+⚡ Responsive Design — Built with Tailwind CSS for a seamless experience on all devices.
+🛠 Tech Stack
+Frontend	Backend	Database	Cloud & APIs	Styling
+React.js	Node.js	MongoDB	AWS S3 (Image Storage)	Tailwind CSS
+Redux Toolkit	Express.js	Mongoose	Google Maps API	
+
+
 
