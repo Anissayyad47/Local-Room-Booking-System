@@ -62,32 +62,10 @@ Redux Toolkit	Express.js	Mongoose	Google Maps API
 ![React App and 12 more pages - Personal - Microsoft​ Edge 21-02-2025 11_54_05](https://github.com/user-attachments/assets/43436cc4-f730-4b27-a3a1-9e580d3fd46f)
 
 
+Login 
 
-
-🏠 Room Finder Platform
-
-A full-stack room booking platform that allows users to search for rooms by location, view detailed information, and manage listings with a modern, responsive UI.
-Built with React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, AWS S3, and Google Maps API.
-
-🚀 Features
-🔍 Room Search — Search for rooms by location with filters for price, furnishing, parking, and more.
-🗺 Google Maps Integration — View rooms on a map with location markers.
-🔑 User Authentication — Login to access personalized features (search also available without login).
-🖼 Image Storage with AWS S3 — Securely stores and retrieves room images.
-📝 Detailed Room Information —
-Images
-Ratings
-Furnishing status (furnished, semi-furnished, unfurnished)
-Available for (families, bachelors, anyone)
-Number of bathrooms
-Parking availability
-Address, rent price, security deposit
-Post date and availability date
-⚡ Responsive Design — Built with Tailwind CSS for a seamless experience on all devices.
-🛠 Tech Stack
-Frontend	Backend	Database	Cloud & APIs	Styling
-React.js	Node.js	MongoDB	AWS S3 (Image Storage)	Tailwind CSS
-Redux Toolkit	Express.js	Mongoose	Google Maps API	
+<img width="1920" height="1080" alt="Vite + React and 9 more pages - Personal - Microsoft​ Edge 24-08-2025 15_07_11" src="https://github.com/user-attachments/assets/8874098a-6512-4644-ba41-c18700a08430" />
+<img width="1920" height="1080" alt="Vite + React and 9 more pages - Personal - Microsoft​ Edge 24-08-2025 14_07_36" src="https://github.com/user-attachments/assets/bf426484-7795-4ac4-a8f4-ebcdc1f88a1f" />
 
 
 
